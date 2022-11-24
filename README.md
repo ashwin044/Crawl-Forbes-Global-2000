@@ -10,7 +10,7 @@
     * Asset
     * Market Value
     * Link to individual company profile
-    * 
+    
 ## Example
 ```
     {
