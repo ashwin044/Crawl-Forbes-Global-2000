@@ -23,9 +23,5 @@
     link :https://www.forbes.com/companies/berkshire-hathaway/?list=global2000&sh=4616376fbef8
     }
 ```
-# *Task 2*
-* Crawl Top 20 company profiles using the above extracted links based on ranking.
-* Store in a json file with proper formatting.
-***Note : Use your own understanding on what kind of data would need to be scraped based on proper reasoning and relevance.***
 ### *Bonus:*
 * Use parallel processing in the script.
