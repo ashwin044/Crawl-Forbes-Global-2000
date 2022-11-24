@@ -3,22 +3,22 @@
 * Get the list of all ***2000*** companies.
 * Final Json document should contain
     * Rank
-    * Name
-    * Country
-    * Sales
+    * Organisation Name
+    * Country Name
+    * revenue
     * Profit
-    * Assets
+    * Asset
     * Market Value
     * Link to individual company profile
 
 ```
     {
     rank : 1,
-    name : Berkshire Hathaway,
-    country : United States,
-    sales : $276.09B,
+    organisation_name : Berkshire Hathaway,
+    country_name : United States,
+    revenue : $276.09B,
     profit : $89.8B,
-    assets : $959.4B,
+    asset : $959.4B,
     market_value : $700B,
     link :https://www.forbes.com/companies/berkshire-hathaway/?list=global2000&sh=4616376fbef8
     }
